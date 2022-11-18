@@ -1,6 +1,6 @@
 # ui-design
 this is a simple website using html css javascript
-LANGUAGE
+ LANGUAGE
 -> HTML
 -> CSS
 -> JAVASCRIPT
